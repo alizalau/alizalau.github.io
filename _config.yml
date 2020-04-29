@@ -1,13 +1,14 @@
 url: http://alizalau.github.io
 baseurl: 
+
 # Site Settings
-title: Timeline
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+title: Aliza Lau
+description: Software Developer
 keywords: "jekyll, theme"
 google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+career-img: "img/timeline/default.png"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]

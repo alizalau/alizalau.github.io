@@ -1,0 +1,9 @@
+---
+layout: null
+title: Sunnybrook Hospital <br> January 2018 - April 2018
+subtitle: 
+image: "img/timeline/2.png"
+---
+Sleep/Brain Data Analyst
+- wrote R scripts to analyze data recordings
+- facilitate research studies to collect data

@@ -1,0 +1,11 @@
+---
+layout: null
+title: Intuit <br> January 2020 - April 2020
+subtitle: 
+image: "img/timeline/1.png"
+---
+Software Developer
+- added new functionalities to C# content editor
+- mandated changes in an updated Javascript PDF converter
+- prepared test reports using Selenium Web Automation
+- trained models using Detectron 2 AI
